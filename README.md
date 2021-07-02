@@ -43,7 +43,7 @@
 | [神经的逻辑/NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734) | 2021-05-20 |      |
 | [复杂生命的起源/The Vital Question](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818) | 2021-05-29 |      |
 | [The Ph.D. Grind](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-06-10 |      |
-| [《火星救援》](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-06-25 |      |
+| [火星救援](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-06-25 |      |
 
 <!--END_SECTION:my_read-->
 
