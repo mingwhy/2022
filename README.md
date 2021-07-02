@@ -13,7 +13,7 @@
 | [心灵奇旅/Soul](https://github.com/mingwhy/2021/issues/1#issuecomment-873285575) | 2021-01-01 | :star::star:                   |
 | [只有我不存在的城市/The Town Where Onlly I Am Missing](https://github.com/mingwhy/2021/issues/1#issuecomment-873286862) | 2021-01-02 | :star::star::star::star:       |
 | [我和我的家乡/My People, My Homeland](https://github.com/mingwhy/2021/issues/1#issuecomment-873287025) | 2021-01-03 | :star::star::star::star:       |
-| [好兆头/Good Omens Season](https://github.com/mingwhy/2021/issues/1#issuecomment-873287181) | 2021-01-03 | :star::star::star::star        |
+| [好兆头/Good Omens Season](https://github.com/mingwhy/2021/issues/1#issuecomment-873287181) | 2021-01-03 | :star::star::star:        |
 | 姜子牙/Legend of Deification                                 | 2021-01-10 | :star::star::star:             |
 | 妙先生/Mr. Miao                                              | 2021-01-10 | :star::star:                   |
 | 宝藏猎人九美子/Kumiko, the Treasure Hunter                   | 2021-02-15 | :star::star::star:             |
