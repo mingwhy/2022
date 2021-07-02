@@ -17,7 +17,7 @@
 | 姜子牙/Legend of Deification | 2021-01-10 |  |
 | 妙先生/Mr. Miao | 2021-01-10 |  |
 | 宝藏猎人九美子/Kumiko, the Treasure Hunter | 2021-02-15 |  |
-| [无依之地/Nomadland](https://github.com/yihong0618/2021/issues/8#issuecomment-763342696) | 2021-03-06 |  |
+| [无依之地/Nomadland](https://github.com/mingwhy/2021/issues/1#issuecomment-873285291) | 2021-03-06 |  |
 | [调音师/Andhadhun](https://github.com/yihong0618/2021/issues/8#issuecomment-781113541) | 2021-03-15 |  |
 | [游客/Turist](https://github.com/yihong0618/2021/issues/8#issuecomment-826454493) | 2021-03-26 |  |
 | [看不见的客人/Contratiempo](https://github.com/yihong0618/2021/issues/8#issuecomment-842002234) | 2021-04-09 |  |
