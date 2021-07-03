@@ -108,3 +108,6 @@
 | [miao yu](https://yufree.cn/cn/)                   | 2021.01.04 | 于淼         | 有科研也有生活感悟                             |
 | [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) | 2021.01.04 | 技术大牛     | 干货多多                                       |
 | [Synthesist in the Shell](https://linghao.io/)      | 2021.02.01 | self hacking | 一个程序员的自我觉悟                           |
+| [猫和柴的野游](https://meowshiba.com/)         | 2021.06.09 | 旅行 |  美景  |
+| [椒盐豆豉](https://blog.douchi.space/)         | 2021.06.10 | 个人博客 | 生活记录 |
+|[沉默之沙-云五的自留地](https://yukieyun.net/) | 2021.06.12 | 个人博客 | 生活记录 | 
