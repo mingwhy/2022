@@ -92,11 +92,13 @@
 | [Grow @Goolge系列](https://linghao.io/posts/grow-at-google-01) | 2021.01.04 | 工作思考 | 成长                                                         |
 | [「程序员」和「软件工程师」是一回事吗？](https://linghao.io/posts/programming-vs-software-engineering) | 2021.01.04 | 工作思考 | 类比过来，也是technician和PI的区别                           |
 | [Grow @ Google 03: 文档意识与培养新人](https://linghao.io/posts/grow-at-google-03) | 2021.01.15 | 工作思考 | 忍不住把这篇单列出来，最近才意识到工作文档写作能力的重要性   |
+| [怎么辨别程序员的水平高低](https://www.douban.com/note/711211084/) | 2021.01.30 | 方法论 | 业务水平量化 |
 | [作为职业的爱好](https://yufree.cn/cn/2020/07/13/hobby-as-career/) | 2021.02.01 | 思考     | 蛮有趣的数据解释                                             |
 | [完形填空](https://yufree.cn/cn/2021/02/24/cloze-test/)      | 2021.02.24 | 议论     | 看待应试教育的一种角度                                       |
 | [词义弱化、慕强文化与缝合怪](https://yufree.cn/cn/2021/03/30/weaken/) | 2021.03.30 | 思考     | 想起了’哈货膨胀'                                             |
 | [知道](https://yufree.cn/cn/2021/05/14/know/)                | 2021.05.14 | 议论     | 做科研一不小心也会做成形而上                                 |
 | [程序员的酒后真言](https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html) | 2021.06.28 | 正经吐槽 | 跟做科研的槽点高度一致                                       |
+| [我如何每日从北京酒仙桥到加州硅谷上班](https://www.99csw.com/article/10781.htm) | 2021.07.01 | 写作 | 科幻 |
 
 
 
