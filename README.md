@@ -19,7 +19,7 @@
 | [宝藏猎人九美子/Kumiko, the Treasure Hunter](https://github.com/mingwhy/2021/issues/1#issuecomment-873308658)                   | 2021-02-15 | :star::star::star:             |
 | [无依之地/Nomadland](https://github.com/mingwhy/2021/issues/1#issuecomment-873285291) | 2021-03-06 | :star::star::star::star:       |
 | [调音师/Andhadhun](https://github.com/mingwhy/2021/issues/1#issuecomment-873311686)                                            | 2021-03-15 | :star::star::star::star:       |
-| 游客/Turist                                                  | 2021-03-26 | :star::star::star:             |
+| [游客/Turist](https://github.com/mingwhy/2021/issues/1#issuecomment-873313650)                                                  | 2021-03-26 | :star::star::star:             |
 | 看不见的客人/Contratiempo                                    | 2021-04-09 | :star::star::star::star:       |
 | 窥探/Mouse                                                   | 2021-05-24 | :star::star::star::star:       |
 | 黑白魔女库伊拉/Cruella                                       | 2021-05-29 | :star::star::star:             |
