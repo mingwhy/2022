@@ -79,6 +79,7 @@
 | [What does 'NormalizeData' function in Seurat package do? A simple explanation](https://mingwhy.github.io/post/what-does-normalizedata-function-in-seurat-package-do-a-simple-explanation.en-us/) | 2021-03-18 |
 | [A R interface to "ID Validator" in FlyBase](https://mingwhy.github.io/post/a-r-interface-to-id-validato-r-in-flybase.en-us/) | 2021-03-30 |
 | [Customize enrichment heatmap with ggplot in R](https://mingwhy.github.io/post/enrichment-heatmap-with-ggplot-in-r.en-us/) | 2021-03-31 | 
+| [Retrieve human orthologs of fly genes with web scraping in R](https://mingwhy.github.io/post/2021-07-03-retrieve-human-orthologs-of-fly-genes-with-web-scraping-in-r/) | 2021-07-03 |
 | [Measuring fly eye size using R](https://mingwhy.github.io/post/2021-07-03-measuring-fly-eye-size-using-r/) | 2021-07-03 |
 
 <!--END_SECTION:my_blog-->
