@@ -39,9 +39,9 @@
 
 | Name                                                         | Date       | 短评 |
 | ------------------------------------------------------------ | ---------- | ---- |
-| [哥德尔人、艾舍尔、巴赫/Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/yihong0618/2021/issues/3#issuecomment-757978780) | 2021-03-29 |      |
-| [神经的逻辑/NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734) | 2021-05-20 |      |
-| [复杂生命的起源/The Vital Question](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818) | 2021-05-29 |      |
+| [哥德尔人、艾舍尔、巴赫\nGödel, Escher, Bach: An Eternal Golden Braid](https://github.com/yihong0618/2021/issues/3#issuecomment-757978780) | 2021-03-29 |      |
+| [神经的逻辑\nNeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/yihong0618/2021/issues/3#issuecomment-782747734) | 2021-05-20 |      |
+| [复杂生命的起源\nThe Vital Question](https://github.com/yihong0618/2021/issues/3#issuecomment-822930818) | 2021-05-29 |      |
 | [The Ph.D. Grind](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-06-10 |      |
 | [火星救援](https://github.com/yihong0618/2021/issues/3#issuecomment-806286053) | 2021-06-25 |      |
 
@@ -98,8 +98,8 @@
 | [词义弱化、慕强文化与缝合怪](https://yufree.cn/cn/2021/03/30/weaken/) | 2021.03.30 | 思考     | 想起了’哈货膨胀'                                             |
 | [知道](https://yufree.cn/cn/2021/05/14/know/)                | 2021.05.14 | 议论     | 做科研一不小心也会做成形而上                                 |
 | [程序员的酒后真言](https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html) | 2021.06.28 | 正经吐槽 | 跟做科研的槽点高度一致                                       |
-| [我如何每日从北京酒仙桥到加州硅谷上班](https://www.99csw.com/article/10781.htm) | 2021.07.01 | 写作 | 科幻 |
-
+| [我如何每日从北京酒仙桥到加州硅谷上班](https://www.99csw.com/article/10781.htm) | 2021.06.30 | 写作 | 科幻 |
+| [昔日因，今日意](https://cosx.org/2014/04/lmm-and-me/) | 2021.07.01 | 科普 | 统计,LMM |
 
 
 ## 收藏的博客
