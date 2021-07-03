@@ -37,13 +37,13 @@
 
 <!--START_SECTION:my_read-->
 
-| Name                                                         | Date       | 短评 |
-| ------------------------------------------------------------ | ---------- | ---- |
-| [哥德尔人、艾舍尔、巴赫\Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/mingwhy/2021/issues/2#issuecomment-873476181) | 2021-03-29 |      |
-| [神经的逻辑\NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/mingwhy/2021/issues/2#issuecomment-873476692) | 2021-05-20 |      |
-| [复杂生命的起源\The Vital Question](https://github.com/mingwhy/2021/issues/2#issuecomment-873477832) | 2021-05-29 |      |
-| [The Ph.D. Grind](https://github.com/mingwhy/2021/issues/2#issuecomment-873479504) | 2021-06-10 |      |
-| [火星救援\The Martian](https://github.com/mingwhy/2021/issues/2#issuecomment-873479858) | 2021-06-25 |      |
+| Name                                                         | Date       |
+| ------------------------------------------------------------ | ---------- |
+| [哥德尔人、艾舍尔、巴赫\Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/mingwhy/2021/issues/2#issuecomment-873476181) | 2021-03-29 |
+| [神经的逻辑\NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/mingwhy/2021/issues/2#issuecomment-873476692) | 2021-05-20 |
+| [复杂生命的起源\The Vital Question](https://github.com/mingwhy/2021/issues/2#issuecomment-873477832) | 2021-05-29 |
+| [The Ph.D. Grind](https://github.com/mingwhy/2021/issues/2#issuecomment-873479504) | 2021-06-10 |
+| [火星救援\The Martian](https://github.com/mingwhy/2021/issues/2#issuecomment-873479858) | 2021-06-25 |
 
 <!--END_SECTION:my_read-->
 
@@ -90,10 +90,10 @@
 
 | 文章名称                                                     | 添加日期   | type     | 备注                                                         |
 | ------------------------------------------------------------ | ---------- | -------- | ------------------------------------------------------------ |
-| [过去这五年，我学到了什么](https://linghao.io/posts/five-year-learning-2013-2018) | 2021.01.04 | 方法论   | 全面，中肯，喜欢 ‘建立高效的反馈回路’和‘自我 Hacking’这两个点 |
+| [过去这五年，我学到了什么](https://linghao.io/posts/five-year-learning-2013-2018) | 2021.01.04 | 方法论   | 喜欢 ‘建立高效的反馈回路’和‘自我 Hacking’这两个点 |
 | [Grow @Goolge系列](https://linghao.io/posts/grow-at-google-01) | 2021.01.04 | 工作思考 | 成长                                                         |
 | [「程序员」和「软件工程师」是一回事吗？](https://linghao.io/posts/programming-vs-software-engineering) | 2021.01.04 | 工作思考 | 类比过来，也是technician和PI的区别                           |
-| [Grow @ Google 03: 文档意识与培养新人](https://linghao.io/posts/grow-at-google-03) | 2021.01.15 | 工作思考 | 忍不住把这篇单列出来，最近才意识到工作文档写作能力的重要性   |
+| [Grow @ Google 03: 文档意识与培养新人](https://linghao.io/posts/grow-at-google-03) | 2021.01.15 | 工作思考 | 把这篇单列出来，最近才意识到说明文档写作能力的重要性   |
 | [怎么辨别程序员的水平高低](https://www.douban.com/note/711211084/) | 2021.01.30 | 方法论 | 业务水平量化 |
 | [作为职业的爱好](https://yufree.cn/cn/2020/07/13/hobby-as-career/) | 2021.02.01 | 思考     | 蛮有趣的数据解释                                             |
 | [完形填空](https://yufree.cn/cn/2021/02/24/cloze-test/)      | 2021.02.24 | 议论     | 看待应试教育的一种角度                                       |
