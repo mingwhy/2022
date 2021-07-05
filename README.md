@@ -27,6 +27,7 @@
 | 火星救援/The Martian                                         | 2021-06-12 | :star::star::star::star::star: |
 | 东城梦魇/Mare of Easttown                                    | 2021-06-13 | :star::star::star::star:       |
 | 罪之声/The Voice of Sin                                      | 2021-06-21 | :star::star:                   |
+| [爱，死亡和机器人2/Love, Death & Robots2](https://github.com/mingwhy/2021/issues/1#issuecomment-874179928) | 2021-07-04 | ：star::star:  |
 
 <!--END_SECTION:my_drama-->
 
