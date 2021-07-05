@@ -118,4 +118,4 @@
 |[沉默之沙-云五的自留地](https://yukieyun.net/) | 2021.06.12 | 个人博客 | 生活记录 | 
 | [楚新元](http://cxy.rbind.io/)  | 2021.07.05 | useR | 有趣的R代码 |
 | [落园](https://www.loyhome.com/) | 2021.07.05 | 技术博客 | 专注经济视角下的互联网|
-| [BIOINFOPLANET](https://www.jieandze1314.com/) | 2021.07.05 | 生物信息学 | 生信星球 |
+| [BIOINFOPLANET](https://www.jieandze1314.com/) | 2021.07.05 | 生物信息 | 生信星球 |
