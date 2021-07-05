@@ -116,3 +116,4 @@
 | [猫和柴的野游](https://meowshiba.com/)         | 2021.06.09 | 旅行 |  美景  |
 | [椒盐豆豉](https://blog.douchi.space/)         | 2021.06.10 | 个人博客 | 生活记录 |
 |[沉默之沙-云五的自留地](https://yukieyun.net/) | 2021.06.12 | 个人博客 | 生活记录 | 
+| [楚新元](http://cxy.rbind.io/)  | 2021.07.05 | useR | 有趣的R代码 |
