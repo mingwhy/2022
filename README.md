@@ -82,6 +82,7 @@
 | [Customize enrichment heatmap with ggplot in R](https://mingwhy.github.io/post/enrichment-heatmap-with-ggplot-in-r.en-us/) | 2021-03-31 | 
 | [Retrieve human orthologs of fly genes with web scraping in R](https://mingwhy.github.io/post/2021-07-03-retrieve-human-orthologs-of-fly-genes-with-web-scraping-in-r/) | 2021-07-03 |
 | [Measuring fly eye size using R](https://mingwhy.github.io/post/2021-07-03-measuring-fly-eye-size-using-r/) | 2021-07-03 |
+| [Give me english sentences - use R to learn english through web scraping](https://mingwhy.github.io/post/2021-07-05-give-me-english-sentence-use-r-to-learn-english-through-web-scraping.index/) | 2021-07-05 |
 
 <!--END_SECTION:my_blog-->
 
