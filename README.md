@@ -120,3 +120,4 @@
 | [楚新元](http://cxy.rbind.io/)  | 2021.07.05 | useR | 有趣的R代码 |
 | [落园](https://www.loyhome.com/) | 2021.07.05 | 技术博客 | 专注经济视角下的互联网|
 | [BIOINFOPLANET](https://www.jieandze1314.com/) | 2021.07.05 | 生物信息 | 生信星球 |
+| [Mainpage of Zhilong Jia](https://zhilongjia.github.io/) | 2021.07.06 | 生物信息 | 生信R包 |
