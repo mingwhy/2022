@@ -122,3 +122,11 @@
 | [BIOINFOPLANET](https://www.jieandze1314.com/) | 2021.07.05 | 生物信息 | 生信星球 |
 | [Mainpage of Zhilong Jia](https://zhilongjia.github.io/) | 2021.07.06 | 生物信息 | 生信R包 |
 | [oganm](https://oganm.com/) | 2021.07.07 | 生物信息 | brain cell type gene expression|
+
+
+## 收藏的视频
+| 视频名称 | 添加日期 | type | 备注 |
+| ------- | ------- | ------- | -------|
+| [Discovery With Andy](https://www.youtube.com/channel/UC6lYCOXS4Rxo9xpKS1My32A) | 2021.06.03 | 太空 | 火箭飞船太空物理 |
+| [天才女友GG](https://www.youtube.com/channel/UCvB9BbJ6NXvRKOaxNqcrxzw) | 2020.06.14 | 审美 | 时尚 |
+| [俄罗斯赛博朋克农场/РУССКАЯ КИБЕРДЕРЕВНЯ](https://www.youtube.com/watch?v=8HZ4DnVfWYQ) | 2021.07.08  | 创作 | 硬核|
