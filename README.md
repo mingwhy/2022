@@ -125,6 +125,7 @@
 | [Mainpage of Zhilong Jia](https://zhilongjia.github.io/) | 2021.07.06 | 生物信息 | 生信R包 |
 | [oganm](https://oganm.com/) | 2021.07.07 | 生物信息 | brain cell type gene expression|
 | [Claus O. Wilke](https://clauswilke.com/) | 2021.07.15 | R干货 | Fundamentals of Data Visualization |
+| [Yihan|文字园艺](https://yihanxu.github.io/) | 2021.07.16 | 个人博客| 有趣 |
 
 
 ## 收藏的视频
