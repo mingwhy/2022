@@ -104,6 +104,7 @@
 | [程序员的酒后真言](https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html) | 2021.06.28 | 正经吐槽 | 跟做科研的槽点高度一致                                       |
 | [我如何每日从北京酒仙桥到加州硅谷上班](https://www.99csw.com/article/10781.htm) | 2021.06.30 | 写作 | 科幻 |
 | [昔日因，今日意](https://cosx.org/2014/04/lmm-and-me/) | 2021.07.01 | 科普 | 统计,LMM |
+| [我只能赞许那些一边哭泣一边追求着的人](http://blog.farmostwood.net/850.html) | 2021.07.16 | 随笔 | 木遥的一篇旧文 | 
 
 
 ## 收藏的博客
