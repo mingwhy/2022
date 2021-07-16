@@ -122,6 +122,7 @@
 | [BIOINFOPLANET](https://www.jieandze1314.com/) | 2021.07.05 | 生物信息 | 生信星球 |
 | [Mainpage of Zhilong Jia](https://zhilongjia.github.io/) | 2021.07.06 | 生物信息 | 生信R包 |
 | [oganm](https://oganm.com/) | 2021.07.07 | 生物信息 | brain cell type gene expression|
+| [Claus O. Wilke](https://clauswilke.com/) | 2021.07.15 | R干货 | Fundamentals of Data Visualization |
 
 
 ## 收藏的视频
