@@ -105,7 +105,7 @@
 | [我如何每日从北京酒仙桥到加州硅谷上班](https://www.99csw.com/article/10781.htm) | 2021.06.30 | 写作 | 科幻 |
 | [昔日因，今日意](https://cosx.org/2014/04/lmm-and-me/) | 2021.07.01 | 科普 | 统计,LMM |
 | [我只能赞许那些一边哭泣一边追求着的人](http://blog.farmostwood.net/850.html) | 2021.07.16 | 随笔 | 木遥的一篇旧文 | 
-
+| [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) | 2021.07.16 | 利器 | 英语论文写作逻辑，中文版[在这里](http://www.jzus.zju.edu.cn/download/write-chinese.pdf) |
 
 ## 收藏的博客
 
