@@ -134,3 +134,4 @@
 | ------- | ------- | ------- | -------|
 | [Discovery With Andy](https://www.youtube.com/channel/UC6lYCOXS4Rxo9xpKS1My32A) | 2021.06.03 | 太空 | 火箭飞船太空物理 |
 | [俄罗斯赛博朋克农场/РУССКАЯ КИБЕРДЕРЕВНЯ](https://www.youtube.com/watch?v=8HZ4DnVfWYQ) | 2021.07.08  | 创作 | 硬核|
+| [细品《瑞克和莫蒂》5-1 关于时间、意义和恐惧](https://www.youtube.com/watch?v=0wA1g9vHvQI&t=337s) | 2021.07.17 | 娱乐 | 过去也好，未来也罢，想得太远，就会陷入虚无|
