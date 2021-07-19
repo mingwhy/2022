@@ -25,8 +25,8 @@
 | [黑白魔女库伊拉/Cruella](https://github.com/mingwhy/2021/issues/1#issuecomment-873318794)                                       | 2021-05-29 | :star::star::star:             |
 | [无罪之最/EI inocente](https://github.com/mingwhy/2021/issues/1#issuecomment-873324545)                                         | 2021-06-10 | :star::star::star:             |
 | [火星救援/The Martian](https://github.com/mingwhy/2021/issues/1#issuecomment-882184779)                                         | 2021-06-12 | :star::star::star::star::star: |
-| 东城梦魇/Mare of Easttown                                    | 2021-06-13 | :star::star::star::star:       |
-| 罪之声/The Voice of Sin                                      | 2021-06-21 | :star::star:                   |
+| [东城梦魇/Mare of Easttown](https://github.com/mingwhy/2021/issues/1#issuecomment-882210436)                                    | 2021-06-13 | :star::star::star::star:       |
+| [罪之声/The Voice of Sin](https://github.com/mingwhy/2021/issues/1#issuecomment-882211646)                                      | 2021-06-21 | :star::star:                   |
 | [爱，死亡和机器人2/Love, Death & Robots2](https://github.com/mingwhy/2021/issues/1#issuecomment-874179928) | 2021-07-04 | :star::star:  |
 
 <!--END_SECTION:my_drama-->
