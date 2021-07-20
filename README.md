@@ -83,7 +83,7 @@
 | [Retrieve human orthologs of fly genes with web scraping in R](https://mingwhy.github.io/post/2021-07-03-retrieve-human-orthologs-of-fly-genes-with-web-scraping-in-r/) | 2021-07-03 |
 | [Measuring fly eye size using R](https://mingwhy.github.io/post/2021-07-03-measuring-fly-eye-size-using-r/) | 2021-07-03 |
 | [Give me english sentences - use R to learn english through web scraping](https://mingwhy.github.io/post/2021-07-05-give-me-english-sentence-use-r-to-learn-english-through-web-scraping.index/) | 2021-07-05 |
-| [Use cases of R packages: GO.db, AnnotationDbi, and clusterProfiler](Use cases of R packages: GO.db, AnnotationDbi, and clusterProfiler) | 2021-07-20 |
+| [Use cases of R packages: GO.db, AnnotationDbi, and clusterProfiler](https://mingwhy.github.io/post/2021-07-20-use-cases-of-r-packages-go-db-annotationdbi-and-clusterprofiler-en-us/) | 2021-07-20 |
 | [A use case of biomaRt for fly genes](https://mingwhy.github.io/post/2021-07-20-a-use-case-of-biomart-for-fly-genes-en-us/) | 2021-07-20 |
 
 <!--END_SECTION:my_blog-->
