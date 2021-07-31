@@ -41,11 +41,11 @@
 
 | Name                                                         | Date       |
 | ------------------------------------------------------------ | ---------- |
-| [哥德尔人、艾舍尔、巴赫\Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/mingwhy/2021/issues/2#issuecomment-873476181) | 2021-03-29 |
-| [神经的逻辑\NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/mingwhy/2021/issues/2#issuecomment-873476692) | 2021-05-20 |
-| [复杂生命的起源\The Vital Question](https://github.com/mingwhy/2021/issues/2#issuecomment-873477832) | 2021-05-29 |
+| [哥德尔人、艾舍尔、巴赫/Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/mingwhy/2021/issues/2#issuecomment-873476181) | 2021-03-29 |
+| [神经的逻辑/NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior](https://github.com/mingwhy/2021/issues/2#issuecomment-873476692) | 2021-05-20 |
+| [复杂生命的起源/The Vital Question](https://github.com/mingwhy/2021/issues/2#issuecomment-873477832) | 2021-05-29 |
 | [The Ph.D. Grind](https://github.com/mingwhy/2021/issues/2#issuecomment-873479504) | 2021-06-10 |
-| [火星救援\The Martian](https://github.com/mingwhy/2021/issues/2#issuecomment-873479858) | 2021-06-25 |
+| [火星救援/The Martian](https://github.com/mingwhy/2021/issues/2#issuecomment-873479858) | 2021-06-25 |
 
 <!--END_SECTION:my_read-->
 
