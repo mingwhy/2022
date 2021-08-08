@@ -29,7 +29,7 @@
 | [罪之声/The Voice of Sin](https://github.com/mingwhy/2021/issues/1#issuecomment-882211646)                                      | 2021-06-21 | :star::star:                   |
 | [爱，死亡和机器人2/Love, Death & Robots2](https://github.com/mingwhy/2021/issues/1#issuecomment-874179928) | 2021-07-04 | :star::star:  |
 | [奇巧计程车/odd taxi](https://github.com/mingwhy/2021/issues/1#issuecomment-890289331) | 2021-07-30 | :star::star::star:|
-| [刺杀小说家](https://github.com/mingwhy/2021/issues/1#issuecomment-894839355） | 2021-08-07 |  :star::star: |
+| [刺杀小说家](https://github.com/mingwhy/2021/issues/1#issuecomment-894839355) | 2021-08-07 |  :star::star: |
 
 <!--END_SECTION:my_drama-->
 
