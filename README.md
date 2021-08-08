@@ -69,6 +69,7 @@
 | Blow Your Mind   |   简里里和broFeng的播客，聊书聊电影聊时事聊职场，轻松又有干货   |
 | 迟早更新 | 条理明晰、问题引导聊天的主播任宁|
 | 疯投圈 | 垂直谈一个商业时聊得很细 | 
+| 内核恐慌 | IT技术主题娱乐播客 |
 | 反潮流 | 改版后节目不错，尤其喜欢直接跟当事人对谈的 | 
 | 牛油果烤面包播客 | 程序员做的播客，讨论的话题涉猎经济、文化、旅行  |
 | 随机波动         | 三个做媒体的女生的播客，紧贴时事，请来的嘉宾常常很有分量 |
@@ -146,6 +147,7 @@
 | [oganm](https://oganm.com/) | 2021.07.07 | 生物信息 | brain cell type gene expression|
 | [Claus O. Wilke](https://clauswilke.com/) | 2021.07.15 | R干货 | Fundamentals of Data Visualization |
 | [Yihan 文字园艺](https://yihanxu.github.io/) | 2021.07.16 | 个人博客| 有趣 |
+| [枫言枫语](https://justinyan.me/) | 2021.08.08 | 个人博客 | 读书笔记，技术博客，播客 |
 
 
 ## 收藏的视频
