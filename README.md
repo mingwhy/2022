@@ -47,6 +47,8 @@
 | [复杂生命的起源/The Vital Question](https://github.com/mingwhy/2021/issues/2#issuecomment-873477832) | 2021-05-29 |
 | [The Ph.D. Grind](https://github.com/mingwhy/2021/issues/2#issuecomment-873479504) | 2021-06-10 |
 | [火星救援/The Martian](https://github.com/mingwhy/2021/issues/2#issuecomment-873479858) | 2021-06-25 |
+| [Your Inner Fish](https://github.com/mingwhy/2021/issues/2#issuecomment-895722999) | 2021-08-09 |
+| [The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution](https://github.com/mingwhy/2021/issues/2#issuecomment-896520946) | 2021-08-10 |
 
 <!--END_SECTION:my_read-->
 
