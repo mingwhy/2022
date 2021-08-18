@@ -151,6 +151,7 @@
 | [Claus O. Wilke](https://clauswilke.com/) | 2021.07.15 | R干货 | Fundamentals of Data Visualization |
 | [Yihan 文字园艺](https://yihanxu.github.io/) | 2021.07.16 | 个人博客| 有趣 |
 | [枫言枫语](https://justinyan.me/) | 2021.08.08 | 个人博客 | 读书笔记，技术博客，播客 |
+| [小孔成像](http://conxz.net/) | 2021.08.18 | 个人博客 | neuroimage |
 
 
 ## 收藏的视频
