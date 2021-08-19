@@ -81,6 +81,7 @@
 | 不合时宜 | 社会文化类播客 |
 | 捕蛇者说 | python程序员做的播客，聊技术也聊八卦 |
 | 惊奇电台 | 提到我感兴趣的科幻作家的，会找来听一听|
+| 不在场 | 音乐福尔摩斯  |
 | Brain Inspried | neuroscience and AI | 
 | Hidden Brain | science underlying human behavior | 
 | This American Life| storytelling | 
