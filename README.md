@@ -50,8 +50,8 @@
 | [Your Inner Fish](https://github.com/mingwhy/2021/issues/2#issuecomment-895722999) | 2021-08-09 |
 | [The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution](https://github.com/mingwhy/2021/issues/2#issuecomment-896520946) | 2021-08-10 |
 | [Life's Ratchet How Molecular Machines Extract Order from Chaos](https://github.com/mingwhy/2021/issues/2#issuecomment-899997060)| 2021-08-16 | 
-| [连接组：造就独一无二的你](https://github.com/mingwhy/2021/issues/2#issuecomment-901595560) | 2021-08-26 | 
-
+| [连接组：造就独一无二的你](https://github.com/mingwhy/2021/issues/2#issuecomment-901595560) | 2021-08-24 | 
+| [Grokking Algorithms An illustrated guide for programmers and other curious people](https://github.com/mingwhy/2021/issues/2#issuecomment-906806916) | 2021-08-26 | 
 <!--END_SECTION:my_read-->
 
 
