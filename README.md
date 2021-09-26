@@ -164,3 +164,13 @@
 | [细品《瑞克和莫蒂》5-1 关于时间、意义和恐惧](https://www.youtube.com/watch?v=0wA1g9vHvQI&t=337s) | 2021.07.17 | 娱乐 | 过去也好，未来也罢，想得太远，就会陷入虚无|
 | [陈巍学基因 视频11：单细胞mRNA测序](https://www.youtube.com/watch?v=aDzDGDPNpnM) | 2021.07.17 | 测序 | 单细胞测序技术原理 |
 | [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) | 2021.08.14 | 科普 | 硬核物理科普 |
+
+## 音乐现场
+| 音乐歌单 | 演唱者 | 添加日期 | 
+| ------- | ------- | ------- |
+[Take the time](https://www.bilibili.com/video/BV1Ag411V7oT?from=search&seid=13047414237007268&spm_id_from=333.337.0.0) | 李长庚  |  2021.09.02 | 
+[影子](https://www.bilibili.com/video/BV16v411A7jE?from=search&seid=2026881404990498676&spm_id_from=333.337.0.0) | 王浩琦 | 2021.09.02 |
+[Yellow](https://www.youtube.com/watch?v=96HpDb4mIfI) | 张淇 | 2021.09.02 | 
+[站在高岗上](https://www.youtube.com/watch?v=hddcL96_O0I) | 布瑞吉 | 2021.09.02 | 
+[她和她和她](https://www.bilibili.com/video/BV1oK411T7jS?from=search&seid=285766828806410121&spm_id_from=333.337.0.0) | 于贞 | 2021.09.02| 
+ 
