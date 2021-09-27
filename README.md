@@ -168,9 +168,11 @@
 ## 音乐现场
 | 音乐歌单 | 演唱者 | 添加日期 | 
 | ------- | ------- | ------- |
-[Take the time](https://www.bilibili.com/video/BV1Ag411V7oT?from=search&seid=13047414237007268&spm_id_from=333.337.0.0) | 李长庚  |  2021.09.02 | 
-[影子](https://www.bilibili.com/video/BV16v411A7jE?from=search&seid=2026881404990498676&spm_id_from=333.337.0.0) | 王浩琦 | 2021.09.02 |
-[Yellow](https://www.youtube.com/watch?v=96HpDb4mIfI) | 张淇 | 2021.09.02 | 
-[站在高岗上](https://www.youtube.com/watch?v=hddcL96_O0I) | 布瑞吉 | 2021.09.02 | 
-[她和她和她](https://www.bilibili.com/video/BV1oK411T7jS?from=search&seid=285766828806410121&spm_id_from=333.337.0.0) | 于贞 | 2021.09.02| 
+|[Take the time](https://www.bilibili.com/video/BV1Ag411V7oT?from=search&seid=13047414237007268&spm_id_from=333.337.0.0) | 李长庚  |  2021.09.02 | 
+|[影子](https://www.bilibili.com/video/BV16v411A7jE?from=search&seid=2026881404990498676&spm_id_from=333.337.0.0) | 王浩琦 | 2021.09.02 |
+|[Yellow](https://www.youtube.com/watch?v=96HpDb4mIfI) | 张淇 | 2021.09.02 | 
+|[站在高岗上](https://www.youtube.com/watch?v=hddcL96_O0I) | 布瑞吉 | 2021.09.02 | 
+|[她和她和她](https://www.bilibili.com/video/BV1oK411T7jS?from=search&seid=285766828806410121&spm_id_from=333.337.0.0) | 于贞 | 2021.09.02| \
+|[SO FRESH](https://www.youtube.com/watch?v=0-VCFIeEJPY)| 红花会贝贝 | 2021.09.27 | 
+| [Fre$h One](https://www.youtube.com/watch?v=CSYVjviDXJI) | PGone | 2021.09.27| 
  
