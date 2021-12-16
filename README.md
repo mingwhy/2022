@@ -176,3 +176,14 @@
 |[SO FRESH](https://www.youtube.com/watch?v=0-VCFIeEJPY)| 红花会贝贝 | 2021.09.27 | 
 | [Fre$h One](https://www.youtube.com/watch?v=CSYVjviDXJI) | PGone | 2021.09.27| 
 | [Come see me](https://www.youtube.com/watch?v=ixxWWKX4S_8) | AOA | 2021.10.17 | 
+
+## December 歌单
+- Ava Max - Sweet but Psycho
+- 5 Seconds of Summer - Teeth 
+- Hawk Nelson - Sold Out 
+- Lilianna Wilde - Grind Me Down 
+- Bea Miller - Playground （from ARCANE League of Legends）
+- Imagine Dragons x JID - ENEMY  （from ARCANE - League of Legends ）
+- Woodkid - Guns for Hire （from ARCANE League of Legends）
+- Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia （from ARCANE League of Legends）
+- Kreayshawn - Go Hard (La.La.La)
