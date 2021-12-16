@@ -187,3 +187,4 @@
 - Woodkid - Guns for Hire （from ARCANE League of Legends）
 - Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia （from ARCANE League of Legends）
 - Kreayshawn - Go Hard (La.La.La)
+- Miyavi & PVRIS - Snakes (from ARCANE League of Legends)
