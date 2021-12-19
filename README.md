@@ -180,10 +180,12 @@
 ## December 歌单
 - Ava Max - Sweet but Psycho
 - 5 Seconds of Summer - Teeth 
+- Simon Curtis - Flesh 
 - Hawk Nelson - Sold Out 
 - Lilianna Wilde - Grind Me Down 
 - Bea Miller - Playground （from ARCANE League of Legends）
 - Imagine Dragons x JID - ENEMY  （from ARCANE - League of Legends ）
+- Ramsey - Goodbye (from ARCANE League of Legends)
 - Woodkid - Guns for Hire （from ARCANE League of Legends）
 - Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia （from ARCANE League of Legends）
 - Kreayshawn - Go Hard (La.La.La)
