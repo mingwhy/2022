@@ -183,6 +183,7 @@
 - Simon Curtis - Flesh 
 - Hawk Nelson - Sold Out 
 - Lilianna Wilde - Grind Me Down 
+- Tones and I - Dance Monkey
 - Bea Miller - Playground （from ARCANE League of Legends）
 - Imagine Dragons x JID - ENEMY  （from ARCANE - League of Legends ）
 - Ramsey - Goodbye (from ARCANE League of Legends)
@@ -190,3 +191,4 @@
 - Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia （from ARCANE League of Legends）
 - Kreayshawn - Go Hard (La.La.La)
 - Miyavi & PVRIS - Snakes (from ARCANE League of Legends)
+
