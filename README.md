@@ -10,7 +10,7 @@
 
 | Name                                                         | Date       | Star                           |
 | ------------------------------------------------------------ | ---------- | ------------------------------ |
-| [千万别抬头/Don't Look Up](https://github.com/mingwhy/2021/issues/1#issuecomment-873285575) | 2022-01-01 | :star::star::star::star: |
+| 千万别抬头/Don't Look Up | 2022-01-01 | :star::star::star::star: |
 
 
 
