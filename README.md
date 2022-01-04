@@ -8,9 +8,9 @@
 
 <!--START_SECTION:my_drama-->
 
-| Name                                                         | Date       | Star                           |
-| ------------------------------------------------------------ | ---------- | ------------------------------ |
-| 千万别抬头/Don't Look Up | 2022-01-01 | :star::star::star::star: |
+| Name                                                         | Date       | Star                           | Echo | 
+| ------------------------------------------------------------ | ---------- | ------------------------------ |  ---|
+| 千万别抬头/Don't Look Up | 2022-01-01 | :star::star::star::star: | Aside from all the drama and sarcasm, one thing I'm really concerned about, peer review... |
 
 
 
