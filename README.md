@@ -42,13 +42,13 @@
 ## 收藏的视频
 | 视频名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ------- | -------|
-| [Discovery With Andy](https://www.youtube.com/channel/UC6lYCOXS4Rxo9xpKS1My32A) | 2021.06.03 | 太空 | 火箭飞船太空物理 |
+| [黑客帝国系列 by 青蛙刀圣1993](https://www.youtube.com/playlist?list=PLg45KLfneaCQXvFLQSMVlCogcyQkJMEB0) | 2022.01.11 | 解说 | 科幻电影 |
 
 
 ## 音乐现场
 | 音乐歌单 | 演唱者 | 添加日期 | 
 | ------- | ------- | ------- |
-|[Take the time](https://www.bilibili.com/video/BV1Ag411V7oT?from=search&seid=13047414237007268&spm_id_from=333.337.0.0) | 李长庚  |  2021.09.02 | 
+|[Dance Monkey](https://www.youtube.com/watch?v=2gqn_vAD8kU&list=RDMM2gqn_vAD8kU&start_radio=1) | 吴莫愁/刘逸云Amber Liu《Dance Monkey》  |  2022.01.15 | 
 
 ## Jan 歌单
 - Ava Max - Sweet but Psycho
@@ -64,4 +64,4 @@
 - Denzel Curry, Gizzle, Bren Joy - Dynasties & Dystopia （from ARCANE League of Legends）
 - Kreayshawn - Go Hard (La.La.La)
 - Miyavi & PVRIS - Snakes (from ARCANE League of Legends)
-
+- Pusha T & Mako - Misfit Toys (from Arcane League of Legends)
