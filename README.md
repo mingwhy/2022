@@ -37,7 +37,7 @@
 | 博客名称                                            | 添加日期   | type         | 备注                                           |
 | --------------------------------------------------- | ---------- | ------------ | ---------------------------------------------- |
 | [科研项目管理](https://yufree.cn/cn/2020/09/20/project-management/)   | 2022.02.11 | 方法学         | 列清单和定期回顾 |
-
+|[Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html) | 2022.02.11 | 方法学| fleshing out the concept and achieving clarity of thought|
 
 ## 收藏的视频
 | 视频名称 | 添加日期 | type | 备注 |
