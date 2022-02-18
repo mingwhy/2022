@@ -11,6 +11,7 @@
 | Name                                                         | Date       | Star                           | Echo | 
 | ------------------------------------------------------------ | ---------- | ------------------------------ |  ---|
 | 千万别抬头/Don't Look Up | 2022-01-01 | :star::star::star::star: | Aside from all the drama and sarcasm, one thing I'm really concerned about, peer review... |
+| 火星救援/The Martian | 2022-02-14 | :star::star::star::star::star: | 刷了N遍的电影，这次迷上的是David Bowie的starman|
 
 
 
@@ -18,18 +19,12 @@
 
 ## 读书
 
-| Name                                                         | Date       |
-| ------------------------------------------------------------ | ---------- |
-| [哥德尔人、艾舍尔、巴赫/Gödel, Escher, Bach: An Eternal Golden Braid](https://github.com/mingwhy/2021/issues/2#issuecomment-873476181) | 2021-03-29 |
+| Name                                                         | Author | Date       |
+| ------------------------------------------------------------ | ---------- |---------- |
+| [Ageless: The New Science of Getting Older Without Getting Old](https://www.amazon.com/Ageless-Science-Getting-Older-Without/dp/0385544928) | Andrew Steele | 2021-01-16 | 
+| [Multivariate Statistical Methods: A Primer](https://www.amazon.com/Multivariate-Statistical-Methods-Primer-Fourth-ebook/dp/B01N186Y9W#:~:text=Multivariate%20Statistical%20Methods%3A%20A%20Primer%20provides%20an%20introductory%20overview%20of,of%20this%20bestselling%20introductory%20textbook.) | Bryan F.J. Manly , Jorge A. Navarro Alberto | 2021-02-18 |
+| [Wizards, Aliens, and Starships: Physics and Math in Fantasy and Science Fiction/巫师、外星人和星舰](https://book.douban.com/subject/26320244/) | Charles L. Adler | 2022-02-18 |
 
-
-
-
-## 收藏的文章
-
-| 文章名称                                                     | 添加日期   | type     | 备注       |
-| ---------------------------------------- | ---------- | -------- | -------------------------------- |
-| [过去这五年，我学到了什么](https://linghao.io/posts/five-year-learning-2013-2018) | 2021.01.04 | 感悟   | 喜欢 ‘建立高效的反馈回路’和‘自我 Hacking’这两个点 | 
 
 
 ## 收藏的文章
@@ -43,14 +38,16 @@
 | 视频名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ------- | -------|
 | [黑客帝国系列 by 青蛙刀圣1993](https://www.youtube.com/playlist?list=PLg45KLfneaCQXvFLQSMVlCogcyQkJMEB0) | 2022.01.11 | 解说 | 科幻电影 |
+| [Linear Algebra by 3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra) | 2022.02.18 | 数学 | 白看不厌|
 
 
 ## 音乐现场
 | 音乐歌单 | 演唱者 | 添加日期 | 
 | ------- | ------- | ------- |
 |[Dance Monkey](https://www.youtube.com/watch?v=2gqn_vAD8kU&list=RDMM2gqn_vAD8kU&start_radio=1) | 吴莫愁/刘逸云Amber Liu《Dance Monkey》  |  2022.01.15 | 
+| [Starman](https://www.youtube.com/watch?v=aeDllUiq92I&ab_channel=KikeK%C3%A1iser) | The Martian - Starman - David Bowie | 2022.02.14 |
 
-## Jan 歌单
+## 歌单
 - Ava Max - Sweet but Psycho
 - 5 Seconds of Summer - Teeth 
 - Simon Curtis - Flesh 
@@ -65,3 +62,4 @@
 - Kreayshawn - Go Hard (La.La.La)
 - Miyavi & PVRIS - Snakes (from ARCANE League of Legends)
 - Pusha T & Mako - Misfit Toys (from Arcane League of Legends)
+
