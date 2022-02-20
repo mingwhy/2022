@@ -2,7 +2,14 @@
 
 <center>I could be bounded in a nutshell and count myself a king of infinite space.</center>
 
-
+Ideas that you must understand to break free from the Matrix:
+- The news is mostly fake
+- Your memory sucks
+- You’re your worst enemy and best ally
+- You can’t change people’s opinions
+- No one will do the job for you
+- Perception creates your reality
+- Mindset is everything
 
 ## 观影&刷剧
 
@@ -33,6 +40,7 @@
 | --------------------------------------------------- | ---------- | ------------ | ---------------------------------------------- |
 | [科研项目管理](https://yufree.cn/cn/2020/09/20/project-management/)   | 2022.02.11 | 方法学         | 列清单和定期回顾 |
 |[Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html) | 2022.02.11 | 方法学| fleshing out the concept and achieving clarity of thought|
+| [Bash脚本教程 by 阮一峰](https://wangdoc.com/bash/index.html) | 2022.02.20 | 编程 | 简洁明了 | 
 
 ## 收藏的视频
 | 视频名称 | 添加日期 | type | 备注 |
