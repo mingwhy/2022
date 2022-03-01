@@ -47,7 +47,7 @@ Ideas that you must understand to break free from the Matrix:
 | ------- | ------- | ------- | -------|
 | [黑客帝国系列 by 青蛙刀圣1993](https://www.youtube.com/playlist?list=PLg45KLfneaCQXvFLQSMVlCogcyQkJMEB0) | 2022.01.11 | 解说 | 科幻电影 |
 | [Linear Algebra by 3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra) | 2022.02.18 | 数学 | 白看不厌|
-| [相对论Relativity](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFeCWwgvZyXvAbQjcviGEo9) | 2022.02.26 | 物理|硬核科普 |
+| [相对论 Relativity](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFeCWwgvZyXvAbQjcviGEo9) | 2022.02.26 | 物理|硬核科普 |
 
 
 ## 音乐现场
