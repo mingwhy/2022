@@ -19,6 +19,8 @@ Ideas that you must understand to break free from the Matrix:
 | ------------------------------------------------------------ | ---------- | ------------------------------ |  ---|
 | 千万别抬头/Don't Look Up | 2022-01-01 | :star::star::star::star: | Aside from all the drama and sarcasm, one thing I'm really concerned about, peer review... |
 | 火星救援/The Martian | 2022-02-14 | :star::star::star::star::star: | 刷了N遍的电影，这次迷上的是David Bowie的starman|
+|初入职场的我们·法医季| 2022-04-02 | :star::star::star::star::star: | 太好看了！！为生者权为死者言。向法医致敬 ！|
+| Super Pumped: The Battle for Uber | 2022-04-16 | :star::star::star::star::star: | 纪实题材改编的美剧很好看啊，刻画人物三分入骨，那份舍我其谁傲慢执拗以至于后期失控完全被演绎出来了，第一集士气高涨那段拍的太好，who wants it more|
 
 
 
