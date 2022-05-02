@@ -21,7 +21,7 @@ Ideas that you must understand to break free from the Matrix:
 | 火星救援/The Martian | 2022-02-14 | :star::star::star::star::star: | 刷了N遍的电影，这次迷上的是David Bowie的starman|
 |初入职场的我们·法医季| 2022-04-02 | :star::star::star::star::star: | 太好看了！！为生者权为死者言。向法医致敬 ！|
 | Super Pumped: The Battle for Uber | 2022-04-16 | :star::star::star::star::star: | 纪实题材改编的美剧很好看啊，刻画人物三分入骨，那份舍我其谁傲慢执拗以至于后期失控完全被演绎出来了，第一集士气高涨那段拍的太好，who wants it more|
-
+| 互联网之子/The Internet's Own Boy | 2022-05-02 |  :star::star::star::star::star: | 在众人所谓的·web3.0·时代看到这个纪录片，大受震撼，生活中所享受到的各种便利，是先驱者用creativity和courage铺垫出来的，感谢这些拥有信念并且不断践行的人们 |
 
 
 
