@@ -33,8 +33,7 @@ Ideas that you must understand to break free from the Matrix:
 | [Ageless: The New Science of Getting Older Without Getting Old](https://www.amazon.com/Ageless-Science-Getting-Older-Without/dp/0385544928) | Andrew Steele | 2021-01-16 | 
 | [Multivariate Statistical Methods: A Primer](https://www.amazon.com/Multivariate-Statistical-Methods-Primer-Fourth-ebook/dp/B01N186Y9W#:~:text=Multivariate%20Statistical%20Methods%3A%20A%20Primer%20provides%20an%20introductory%20overview%20of,of%20this%20bestselling%20introductory%20textbook.) | Bryan F.J. Manly , Jorge A. Navarro Alberto | 2021-02-18 |
 | [Wizards, Aliens, and Starships: Physics and Math in Fantasy and Science Fiction/巫师、外星人和星舰](https://book.douban.com/subject/26320244/) | Charles L. Adler | 2022-02-18 |
-
-| [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/) | 2022-05-04 | 
+| [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/) | Sanjoy Mahajan | 2022-05-04 | 
 
 ## 收藏的文章
 
