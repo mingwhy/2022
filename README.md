@@ -23,7 +23,7 @@ Ideas that you must understand to break free from the Matrix:
 | Super Pumped: The Battle for Uber | 2022-04-16 | :star::star::star::star::star: | 纪实题材改编的美剧很好看啊，刻画人物三分入骨，那份舍我其谁傲慢执拗以至于后期失控完全被演绎出来了，第一集士气高涨那段拍的太好，who wants it more|
 | 互联网之子/The Internet's Own Boy | 2022-05-01 |  :star::star::star::star::star: | 在众人所谓的·web3.0·时代看到这个纪录片，大受震撼，生活中所享受到的各种便利，是先驱者用creativity和courage铺垫出来的，感谢这些拥有信念并且不断践行的人们 |
 | 初创玩家/WeCrashed | 2022-05-02 |  :star::star::star: | 好drama的剧情，不知道真实和戏剧化的处理差别有多少。只能说演员演的真好，演出了那份固执和疯癫 |
-
+| 辍学生/The Dropout | 2022-05-07 |  :star::star::star: | 作为一个生物从业者，看着简直太气愤。一个board里面没有任何专业人士的独角兽公司，就这么众星捧月的烧钱烧的肆意妄为？？！|
 
 
 ## 读书
